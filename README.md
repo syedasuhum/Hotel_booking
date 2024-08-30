@@ -1,7 +1,8 @@
 # Hotel_booking
-![image](https://github.com/user-attachments/assets/8d643b0d-6729-41a3-bbe6-2b6cfc57d527)
- 
+
  Developed a hotel booking website using the Wizard control in ASP.NET, creating a seamless and user-friendly experience for both hotel managers and customers. The Wizard control, known for guiding users through a series of steps in a structured manner, was an ideal choice for building a multi-step booking process that ensures all necessary details are captured efficiently and accurately.
+![image](https://github.com/user-attachments/assets/8d643b0d-6729-41a3-bbe6-2b6cfc57d527)
+  
  This one is first step of hotel booking process where I added the validation for date and disabling the previous date
 
  ![image](https://github.com/user-attachments/assets/f42ccc2b-4495-4411-92c3-2eadf19df7e0)
